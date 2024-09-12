@@ -33,7 +33,7 @@
     </nav>
 
     <div class="container hero-text">
-        <h1 style="color:#004d40;font-weight:bold;">Réservez votre vol avec CAS co</h1>
+        <h1 style="color:#004d40;font-weight:bold;">Réservez votre vol avec CAS</h1>
     </div>
 
     <div class="container form-container mt-5">
