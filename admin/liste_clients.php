@@ -56,7 +56,7 @@
     </nav>
 
     <div class="container admin-container">
-        <h2 class="admin-header">Liste des utilisateurs</h2>
+        <h2 class="admin-header">Liste de nos clients</h2>
         <div class="table-responsive">
             <table class="table table-bordered table-striped">
                 <thead>
