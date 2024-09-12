@@ -58,7 +58,7 @@
 
     <div class="container form-container">
         <div class="form-header">
-            <h2>Réserver un vol auprès de la compagnie CAS</h2>
+            <h2>Réserver un vol auprès de la compagnie CAS.</h2>
         </div>
         <form class="mt-4">
             <div class="mb-3">
