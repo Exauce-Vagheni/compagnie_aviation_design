@@ -61,7 +61,7 @@
 
     <div class="container form-container">
         <div class="form-header">
-            <h2>Ajouter une destination</h2>
+            <h2>Ajouter une destination-CAS</h2>
         </div>
         <form class="mt-4">
             <div class="mb-3">
