@@ -27,7 +27,7 @@
     </nav>
 
     <div class="container mt-5">
-        <h2 class="text-center">Créer un compte</h2>
+        <h2 class="text-center">Créer un compte chez CAS</h2>
         <form class="mt-4" id="form">
             <div class="mb-3">
                 <label for="first-name" class="form-label">Prénom</label>
