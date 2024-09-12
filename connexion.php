@@ -20,7 +20,7 @@
     </nav>
 
     <div class="container mt-5">
-        <h2 class="text-center">Connexion</h2>
+        <h2 class="text-center">Se connecter</h2>
         <form class="mt-4" id="form">
             <div class="mb-3">
                 <label for="email" class="form-label">Adresse email</label>
