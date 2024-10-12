@@ -23,11 +23,13 @@
             margin-top: 50px;
         }
         .form-header {
-            background-color: #004d40;
-            color: white;
+            color: #004d40;
             padding: 10px;
             border-radius: 5px;
             text-align: center;
+        }
+         .nav-item a{
+            color:white;
         }
     </style>
 </head>
@@ -56,24 +58,21 @@
 
     <div class="container form-container">
         <div class="form-header">
-            <h2>Réserver un vol</h2>
+            <h2>Réserver un vol auprès de la compagnie CAS</h2>
         </div>
         <form class="mt-4">
             <div class="mb-3">
-                <label for="departure" class="form-label">Ville de départ</label>
-                <input type="text" class="form-control" id="departure" placeholder="Entrez la ville de départ">
-            </div>
-            <div class="mb-3">
-                <label for="arrival" class="form-label">Ville d'arrivée</label>
-                <input type="text" class="form-control" id="arrival" placeholder="Entrez la ville d'arrivée">
+                <label for="departure" class="form-label">Destination</label>
+                <select name="" class="form-control" id="departure" placeholder="Ville de départ">
+                    <option value="">Butembo-Beni</option>
+                    <option value="">Beni-Bunia</option>
+                    <option value="">Goma-Butembo</option>
+                    <option value="">Bunia-Lubumbashi</option>
+                </select>
             </div>
             <div class="mb-3">
                 <label for="departure-date" class="form-label">Date de départ</label>
                 <input type="date" class="form-control" id="departure-date">
-            </div>
-            <div class="mb-3">
-                <label for="return-date" class="form-label">Date de retour (facultatif)</label>
-                <input type="date" class="form-control" id="return-date">
             </div>
             <div class="mb-3">
                 <label for="passengers" class="form-label">Nombre de passagers</label>

@@ -23,6 +23,9 @@
         .confirmation-container h2 {
             color: #004d40;
         }
+         .nav-item a{
+            color:white;
+        }
     </style>
 </head>
 <body>

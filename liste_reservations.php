@@ -24,6 +24,9 @@
             text-align: center;
             margin-bottom: 30px;
         }
+         .nav-item a{
+            color:white;
+        }
     </style>
 </head>
 <body>

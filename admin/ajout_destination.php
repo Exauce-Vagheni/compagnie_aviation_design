@@ -28,6 +28,9 @@
             border-radius: 5px;
             text-align: center;
         }
+         .nav-item a{
+            color:white;
+        }
     </style>
 </head>
 <body>
