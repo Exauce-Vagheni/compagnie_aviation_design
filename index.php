@@ -33,14 +33,14 @@
     </nav>
 
     <div class="container hero-text">
-        <h1>Réservez votre vol avec CAS</h1>
-        <p>Découvrez les meilleures offres pour vos destinations préférées</p>
+        <h1 style="color:#004d40;font-weight:bold;">Réservez votre vol avec CAS</h1>
     </div>
 
     <div class="container form-container mt-5">
+    <p style="color:black;font-weight:bold;text-align:center;">Découvrez les meilleures offres pour vos destinations préférées</p>
         <h2 class="text-center mb-4">Trouvez votre vol</h2>
         <form class="row g-3">
-            <div class="col-md-6">
+            <div class="col-md-12">
             <label for="departure" class="form-label">Destination</label>
             <select name="" class="form-control" id="departure" placeholder="Ville de départ">
                     <option value="">Butembo-Beni</option>
@@ -52,6 +52,10 @@
             <div class="col-md-6">
                 <label for="departure-date" class="form-label">Date de départ</label>
                 <input type="date" class="form-control" id="departure-date">
+            </div>
+            <div class="col-md-6">
+                <label for="passagers" class="form-label">Nombres de passagers</label>
+                <input type="number" class="form-control" id="departure-date">
             </div>
             <div class="col-12">
                 <button type="submit" class="btn btn-primary w-100">Rechercher</button>
