@@ -65,18 +65,18 @@
         </div>
         <form class="mt-4">
             <div class="mb-3">
-                <label for="departure" class="form-label">Ville de départ</label>
+                <label for="departure" class="form-label">Destination</label>
                 <input type="text" class="form-control" id="departure" placeholder="Entrez la ville de départ">
             </div>
             <div class="mb-3">
-                <label for="arrival" class="form-label">Ville d'arrivée</label>
-                <input type="text" class="form-control" id="arrival" placeholder="Entrez la ville d'arrivée">
+                <label for="places" class="form-label">Nombre de places</label>
+                <input type="number" class="form-control" id="places" placeholder="Nombre de places">
             </div>
             <div class="mb-3">
                 <label for="price" class="form-label">Tarif ($)</label>
                 <input type="number" class="form-control" id="price" placeholder="Entrez le tarif">
             </div>
-            <button type="submit" class="btn btn-primary w-100">Ajouter Destination</button>
+            <button type="submit" class="btn btn-primary w-100">Ajouter destination</button>
         </form>
     </div>
 

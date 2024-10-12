@@ -63,10 +63,8 @@
                     <tr>
                         <th>#</th>
                         <th>Client</th>
-                        <th>Ville de Départ</th>
-                        <th>Ville d'Arrivée</th>
-                        <th>Date de Départ</th>
-                        <th>Date de Retour</th>
+                        <th>Destination</th>
+                        <th>Date de départ</th>
                         <th>Passagers</th>
                         <th>Statut</th>
                         <th>Action</th>
@@ -76,10 +74,8 @@
                     <tr>
                         <td>1</td>
                         <td>Aris Tonton</td>
-                        <td>Butembo</td>
-                        <td>Goma</td>
+                        <td>Butembo-Goma</td>
                         <td>2024-09-20</td>
-                        <td>2024-09-27</td>
                         <td>2</td>
                         <td>En Attente</td>
                         <td>
@@ -90,10 +86,8 @@
                     <tr>
                         <td>2</td>
                         <td>Reddy</td>
-                        <td>Bunia</td>
-                        <td>Beni</td>
+                        <td>Beni-Butembo</td>
                         <td>2024-10-10</td>
-                        <td>2024-10-17</td>
                         <td>1</td>
                         <td>Confirmée</td>
                         <td>
