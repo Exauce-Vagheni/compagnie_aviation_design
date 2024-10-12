@@ -23,8 +23,7 @@
             margin-top: 50px;
         }
         .form-header {
-            background-color: #004d40;
-            color: white;
+            color: black;
             padding: 10px;
             border-radius: 5px;
             text-align: center;
@@ -56,7 +55,7 @@
 
     <div class="container form-container">
         <div class="form-header">
-            <h2>Ajouter une Destination</h2>
+            <h2>Ajouter une destination</h2>
         </div>
         <form class="mt-4">
             <div class="mb-3">
