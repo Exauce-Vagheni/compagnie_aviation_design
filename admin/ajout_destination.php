@@ -40,13 +40,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="admin-reservations.html">Réservations</a>
+                        <a class="nav-link" href="reservations_clients.php">Réservations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="admin-add-destination.html">Ajouter Destination</a>
+                        <a class="nav-link" href="ajout_destination.php">Ajouter destination</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="admin-users.html">Utilisateurs</a>
+                        <a class="nav-link" href="liste_clients.php">Utilisateurs</a>
                     </li>
                 </ul>
             </div>
