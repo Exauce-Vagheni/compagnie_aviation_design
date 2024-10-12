@@ -41,6 +41,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="liste_reservations.php">Mes réservations</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Se deconnecter</a>
+                    </li>
                 </ul>
             </div>
         </div>

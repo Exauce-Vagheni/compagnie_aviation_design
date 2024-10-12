@@ -44,6 +44,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="liste_clients.php">Utilisateurs</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Se deconnecter</a>
+                    </li>
                 </ul>
             </div>
         </div>
