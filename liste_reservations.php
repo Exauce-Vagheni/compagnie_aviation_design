@@ -36,12 +36,6 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="login.html">Connexion</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="signup.html">S'inscrire</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="reservation.html">Réserver</a>
                     </li>
                     <li class="nav-item">

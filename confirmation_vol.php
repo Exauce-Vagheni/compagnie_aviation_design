@@ -33,15 +33,12 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
+            <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="login.html">Connexion</a>
+                        <a class="nav-link" href="reservation.php">Réserver</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="signup.html">S'inscrire</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="reservation.html">Réserver</a>
+                        <a class="nav-link" href="liste_reservations.php">Mes réservations</a>
                     </li>
                 </ul>
             </div>

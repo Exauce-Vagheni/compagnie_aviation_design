@@ -27,7 +27,7 @@
             </div>
             <button type="submit" class="btn btn-primary w-100">Se connecter</button>
         </form>
-        <p class="mt-3 text-center">Pas encore de compte ? <a href="signup.html">S'inscrire</a></p>
+        <p class="mt-3 text-center">Pas encore de compte ? <a href="inscription.php">S'inscrire</a></p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
