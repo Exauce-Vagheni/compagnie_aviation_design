@@ -20,13 +20,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="login.html">Connexion</a>
+                        <a class="nav-link" href="connexion.php">Connexion</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="signup.html">S'inscrire</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="reservation.html">Réserver un vol</a>
+                        <a class="nav-link" href="inscription.php">S'inscrire</a>
                     </li>
                 </ul>
             </div>

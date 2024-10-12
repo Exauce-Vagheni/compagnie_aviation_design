@@ -36,10 +36,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="reservation.html">Réserver</a>
+                        <a class="nav-link" href="reservation.php">Réserver</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="mes-reservations.html">Mes Réservations</a>
+                        <a class="nav-link" href="liste_reservations.php">Mes réservations</a>
                     </li>
                 </ul>
             </div>
@@ -47,16 +47,16 @@
     </nav>
 
     <div class="container reservation-container">
-        <h2 class="reservation-header">Mes Réservations</h2>
+        <h2 class="reservation-header">Mes réservations</h2>
         <div class="table-responsive">
             <table class="table table-bordered table-striped">
                 <thead>
                     <tr>
                         <th>#</th>
-                        <th>Ville de Départ</th>
-                        <th>Ville d'Arrivée</th>
-                        <th>Date de Départ</th>
-                        <th>Date de Retour</th>
+                        <th>Ville de départ</th>
+                        <th>Ville d'arrivée</th>
+                        <th>Date de départ</th>
+                        <th>Date de retour</th>
                         <th>Nombre de Passagers</th>
                         <th>Statut</th>
                         <th>Action</th>
@@ -65,8 +65,8 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Paris</td>
-                        <td>New York</td>
+                        <td>Butembo</td>
+                        <td>Goma</td>
                         <td>2024-09-20</td>
                         <td>2024-09-27</td>
                         <td>2</td>
@@ -75,8 +75,8 @@
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Berlin</td>
-                        <td>Tokyo</td>
+                        <td>Beni</td>
+                        <td>Bunia</td>
                         <td>2024-10-10</td>
                         <td>2024-10-17</td>
                         <td>1</td>
