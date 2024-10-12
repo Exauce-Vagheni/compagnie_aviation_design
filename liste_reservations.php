@@ -59,10 +59,8 @@
                 <thead>
                     <tr>
                         <th>#</th>
-                        <th>Ville de départ</th>
-                        <th>Ville d'arrivée</th>
+                        <th>Destination</th>
                         <th>Date de départ</th>
-                        <th>Date de retour</th>
                         <th>Nombre de Passagers</th>
                         <th>Statut</th>
                         <th>Action</th>
@@ -71,20 +69,16 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Butembo</td>
-                        <td>Goma</td>
+                        <td>Butembo-Goma</td>
                         <td>2024-09-20</td>
-                        <td>2024-09-27</td>
                         <td>2</td>
                         <td>Confirmée</td>
                         <td><button class="btn btn-primary btn-sm">Annuler</button></td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Beni</td>
-                        <td>Bunia</td>
+                        <td>Beni-Beni</td>
                         <td>2024-10-10</td>
-                        <td>2024-10-17</td>
                         <td>1</td>
                         <td>En Attente</td>
                         <td><button class="btn btn-primary btn-sm">Annuler</button></td>
