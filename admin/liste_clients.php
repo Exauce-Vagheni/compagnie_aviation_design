@@ -65,15 +65,15 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Jean Dupont</td>
-                        <td>jean.dupont@example.com</td>
+                        <td>Aris Tonton</td>
+                        <td>Aris@gmail.com</td>
                         <td>Client</td>
                         <td>2024-08-01</td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Marie Dubois</td>
-                        <td>marie.dubois@example.com</td>
+                        <td>Reddy</td>
+                        <td>Reddy@gmail.com</td>
                         <td>Client</td>
                         <td>2024-08-05</td>
                     </tr>

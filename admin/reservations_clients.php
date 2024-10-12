@@ -69,7 +69,7 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Jean Dupont</td>
+                        <td>Aris Tonton</td>
                         <td>Paris</td>
                         <td>New York</td>
                         <td>2024-09-20</td>
@@ -83,7 +83,7 @@
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Marie Dubois</td>
+                        <td>Reddy</td>
                         <td>Berlin</td>
                         <td>Tokyo</td>
                         <td>2024-10-10</td>
