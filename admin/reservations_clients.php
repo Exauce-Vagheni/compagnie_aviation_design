@@ -34,15 +34,15 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
+            <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="admin-reservations.html">Réservations</a>
+                        <a class="nav-link" href="reservations_clients.php">Réservations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="admin-add-destination.html">Ajouter Destination</a>
+                        <a class="nav-link" href="ajout_destination.php">Ajouter destination</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="admin-users.html">Utilisateurs</a>
+                        <a class="nav-link" href="liste_clients.php">Utilisateurs</a>
                     </li>
                 </ul>
             </div>
@@ -50,7 +50,7 @@
     </nav>
 
     <div class="container admin-container">
-        <h2 class="admin-header">Réservations des Clients</h2>
+        <h2 class="admin-header">Réservations des clients</h2>
         <div class="table-responsive">
             <table class="table table-bordered table-striped">
                 <thead>
@@ -70,8 +70,8 @@
                     <tr>
                         <td>1</td>
                         <td>Aris Tonton</td>
-                        <td>Paris</td>
-                        <td>New York</td>
+                        <td>Butembo</td>
+                        <td>Goma</td>
                         <td>2024-09-20</td>
                         <td>2024-09-27</td>
                         <td>2</td>
@@ -84,8 +84,8 @@
                     <tr>
                         <td>2</td>
                         <td>Reddy</td>
-                        <td>Berlin</td>
-                        <td>Tokyo</td>
+                        <td>Bunia</td>
+                        <td>Beni</td>
                         <td>2024-10-10</td>
                         <td>2024-10-17</td>
                         <td>1</td>
