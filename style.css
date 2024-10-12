@@ -1,0 +1,50 @@
+#form{
+    max-width: 400px;
+    margin:auto;
+}
+.navbar {
+    background-color: #004d40;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+.btn-primary {
+    background-color: #004d40;
+    border: none;
+}
+.navbar {
+    background-color: #004d40;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+.btn-primary {
+    background-color: #004d40;
+    border: none;
+}
+#accueil {
+    background-image: url('images/cas.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.navbar {
+    background-color: #004d40;
+}
+.navbar-brand, .nav-link {
+    color: white !important;
+}
+.hero-text {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+.form-container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+.btn-primary {
+    background-color: #004d40;
+    border: none;
+}
