@@ -50,7 +50,7 @@
     </nav>
 
     <div class="container admin-container">
-        <h2 class="admin-header">Liste des Utilisateurs</h2>
+        <h2 class="admin-header">Liste des utilisateurs</h2>
         <div class="table-responsive">
             <table class="table table-bordered table-striped">
                 <thead>
