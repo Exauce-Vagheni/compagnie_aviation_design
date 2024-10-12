@@ -14,7 +14,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="login.html">Connexion</a>
+                        <a class="nav-link" href="connexion.php">Connexion</a>
                     </li>
                 </ul>
             </div>
